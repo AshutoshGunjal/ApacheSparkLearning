@@ -1,5 +1,5 @@
 
-=>RETAIL DATA STORE 
+=>RETAIL DATA ANALYSIS
 
 Problem Statement:
 
